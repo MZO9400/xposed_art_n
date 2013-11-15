@@ -21,6 +21,7 @@ Original Xposed is kinda a patch that's applied on already built firmwares and t
  
  ### Issues?
  See [issues](https://github.com/abforce/xposed_art_n/issues).
- 
- ### Copy right
- MIT. not included LICENSE file though!
+
+ ###  Further development
+ See [abforce's repo](https://github.com/abforce/xposed_art_n).
+
